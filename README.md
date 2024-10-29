@@ -1,5 +1,3 @@
-# Arduino
+#Door Automation
 
-arduino examples
-&
-arduino code for sliding door automation board with photocells and stop
+Arduino code for sliding door automation board with photocells and stop
